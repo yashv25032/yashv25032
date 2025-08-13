@@ -27,8 +27,7 @@
 
 ## 📫 Contact Me
 - 📧 **Email:** [yashwantv482@gmail.com](mailto:yashwantv482@gmail.com)  
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-link)  
-- 🐦 **Twitter:** [Your Twitter Handle](https://twitter.com/your-handle)  
+- 💼 **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/yashwant-vishwakarma-34a2a1287/)) 
 
 ---
 
